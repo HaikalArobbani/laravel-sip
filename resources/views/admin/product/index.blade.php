@@ -41,7 +41,7 @@
                         <button type="submit" class="btn btn-outline btn-primary" style="margin-top: 6%"><i
                                 class="fa fa-search"></i> Cari</button>
                         <a href="{{ route('product.index') }}" class="btn btn-outline btn-secondary"
-                            style="margin-top: 6%"><i class="fas fa-sync"></i> Reload</a>
+                            style="margin-top: 6%"><i class="fas fa-sync"></i> Reloaded</a>
                     </div>
                 </div>
 
